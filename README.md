@@ -16,10 +16,10 @@
  <br>
  
   <p align="center">
-    <a href="https://twitter.com/rohitsingh_0210" alt="Twitter"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/rohitsingh0210/" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/linkedin-fill.svg"></a>
-    <a href="mailto:rohitjsingh974.com" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/mail-fill.svg"></a>
-    <a href="https://instagram.com/_rohit_singh._" alt="Contact me"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/instagram-fill.svg"></a>
+    <a target="_blank" href="https://twitter.com/rohitsingh_0210" alt="Twitter"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/twitter-fill.svg"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/rohitsingh0210/" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/linkedin-fill.svg"></a>
+    <a target="_blank" href="mailto:rohitjsingh974.com" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/mail-fill.svg"></a>
+    <a target="_blank" href="https://instagram.com/_rohit_singh._" alt="Contact me"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/instagram-fill.svg"></a>
     
   <p align="center">
     <a href="https://visitor-badge.glitch.me/">
