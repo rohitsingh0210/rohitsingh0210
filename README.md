@@ -16,7 +16,7 @@
  <br>
  
   <p align="center">
-    <a href="" alt="Twitter"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/twitter-fill.svg"></a>
+    <a href="https://twitter.com/rohitsingh_0210" alt="Twitter"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/rohitsingh0210/" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/linkedin-fill.svg"></a>
     <a href="mailto:rohitjsingh974.com" alt="Linkedin"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/mail-fill.svg"></a>
     <a href="https://instagram.com/_rohit_singh._" alt="Contact me"><img src="https://github.com/rohitsingh0210/rohitsingh0210/blob/main/images/instagram-fill.svg"></a>
