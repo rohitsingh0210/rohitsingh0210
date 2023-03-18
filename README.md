@@ -3,7 +3,7 @@
 
 ### I like experimenting with new technologies, building small projects, and occassionally joining contests/hackathons. ✨
 
-- #### 🔭 I’m a Pre-Final year CSE Undergrad at VIT Pune.
+- #### 🔭 I’m a Final year CSE Undergrad at VIT Pune.
 - 🌱 I’m currently mastering Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with you on interesting projects.
 - 💬 Ask me about Machine Learning and Web Development.
