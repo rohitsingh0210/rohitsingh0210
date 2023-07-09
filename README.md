@@ -3,8 +3,7 @@
 
 ### I like experimenting with new technologies, building small projects, and occassionally joining contests/hackathons. ✨
 
-- #### 🔭 I’m a Final year CSE Undergrad at VIT Pune.
-- 🌱 I’m currently mastering Data Structures and Algorithms.
+- #### 🔭 I’m a Software Engineer at Credit Suisse, Pune.
 - 👯 I’m looking to collaborate with you on interesting projects.
 - 💬 Ask me about Machine Learning and Web Development.
 - 📫 You can reach me at [Email](https://mailto:rohitjsingh974@gmail.com) or  [Linkedin](https://linkedin.com/in/rohitsingh0210) 
